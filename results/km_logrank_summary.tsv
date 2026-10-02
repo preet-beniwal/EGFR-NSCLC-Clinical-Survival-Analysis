@@ -1,0 +1,5 @@
+endpoint	n_patients	multivariate_logrank_p
+Overall survival	505	0.0165
+Disease-free survival	301	0.0003
+Disease-specific survival	470	0.0021
+Progression-free survival	505	0.0194
