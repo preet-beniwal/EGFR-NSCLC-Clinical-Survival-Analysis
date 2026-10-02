@@ -1,0 +1,2 @@
+metric	point_estimate	ci_lower_2.5pct	ci_upper_97.5pct	n_bootstrap_iterations
+Rare class HR (OS, adjusted)	1.935	0.656	7.002	880

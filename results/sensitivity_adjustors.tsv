@@ -1,0 +1,13 @@
+adjustors	class	HR	CI_lower	CI_upper	p_value
+unadjusted	Rare	3.4306	1.398	8.4184	0.0071
+unadjusted	L858R	1.892	0.9961	3.5939	0.0514
+unadjusted	Exon19del	0.8185	0.3834	1.7473	0.6046
+age	Rare	3.2141	1.3075	7.9011	0.011
+age	L858R	1.8774	0.9867	3.5724	0.055
+age	Exon19del	0.8598	0.3796	1.9477	0.7173
+age + sex	Rare	3.1667	1.2872	7.791	0.0121
+age + sex	L858R	1.9386	1.0137	3.7072	0.0454
+age + sex	Exon19del	0.9032	0.3951	2.0647	0.8092
+age + sex + stage	Rare	1.9578	0.7852	4.8814	0.1495
+age + sex + stage	L858R	1.9992	1.0416	3.8371	0.0373
+age + sex + stage	Exon19del	0.6402	0.2767	1.4809	0.2973

@@ -1,0 +1,9 @@
+covariate	HR	CI_lower	CI_upper	p_value
+AGE	1.0073	0.9916	1.0233	0.363
+egfr_Exon19del	0.6892	0.297	1.5992	0.386
+egfr_L858R	2.1318	1.1087	4.0989	0.0233
+egfr_Other	0.9126	0.3351	2.4854	0.8581
+egfr_Rare	2.313	0.9229	5.7972	0.0737
+SEX_Male	1.0213	0.7446	1.4008	0.8962
+stage_group_Late	2.4939	1.7824	3.4895	0.0
+stage_group_Unknown	0.0	0.0	inf	0.9952
