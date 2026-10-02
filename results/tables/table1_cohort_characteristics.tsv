@@ -1,0 +1,10 @@
+Characteristic	TCGA-LUAD	OncoSG
+N patients	566	305
+N with OS data	505	302
+EGFR-mutant (n, %)	70 (12.4%)	143 (46.9%)
+Exon19del	22	57
+L858R	21	61
+Other	18	13
+Rare	9	12
+Median age (yrs)	66	64
+Female (%)	48.6	48.9
