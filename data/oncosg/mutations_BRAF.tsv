@@ -1,0 +1,11 @@
+sampleId	patientId	proteinChange	mutationType	startPosition	referenceAllele	variantAllele
+A126	A126	V600E	Missense_Mutation	140453136	A	T
+A191	A191	N580D	Missense_Mutation	140453990	T	C
+A205	A205	V600E	Missense_Mutation	140453136	A	T
+A228	A228	L597Q	Missense_Mutation	140453145	A	T
+A263	A263	V600_K601delinsE	In_Frame_Del	140453134	TCA	-
+A513	A513	V600E	Missense_Mutation	140453136	A	T
+A534	A534	V600_K601delinsE	In_Frame_Del	140453134	TCA	-
+BGI-EX03	BGI-EX03	H585R	Missense_Mutation	140453181	T	C
+BGI-RS13	BGI-RS13	V600E	Missense_Mutation	140453136	A	T
+BGI-RS48	BGI-RS48	H585N	Missense_Mutation	140453182	G	T

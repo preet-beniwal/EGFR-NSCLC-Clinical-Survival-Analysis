@@ -1,0 +1,15 @@
+sampleId	patientId	proteinChange	mutationType	startPosition	referenceAllele	variantAllele
+A169	A169	E453K	Missense_Mutation	178928079	G	A
+A232	A232	H1047R	Missense_Mutation	178952085	A	G
+A262	A262	E542K	Missense_Mutation	178936082	G	A
+A262	A262	N1044S	Missense_Mutation	178952076	A	G
+A282	A282	E542K	Missense_Mutation	178936082	G	A
+A364	A364	H1047R	Missense_Mutation	178952085	A	G
+A364	A364	M1004I	Missense_Mutation	178951957	G	A
+A433	A433	E542K	Missense_Mutation	178936082	G	A
+BGI-RS08	BGI-RS08	E726K	Missense_Mutation	178938934	G	A
+BGI-RS11	BGI-RS11	E545K	Missense_Mutation	178936091	G	A
+BGI-RS15	BGI-RS15	P104S	Missense_Mutation	178916923	C	T
+BGI-RS24	BGI-RS24	E542K	Missense_Mutation	178936082	G	A
+BGI-RS38	BGI-RS38	H1047R	Missense_Mutation	178952085	A	G
+BGI-WG20	BGI-WG20	H1047R	Missense_Mutation	178952085	A	G

@@ -1,0 +1,13 @@
+cohort	model	class	HR	CI_lower	CI_upper	p_value
+OncoSG	unadjusted	Exon19del	0.5047	0.2777	0.9171	0.0248
+OncoSG	unadjusted	L858R	0.3369	0.1677	0.6768	0.0022
+OncoSG	unadjusted	Rare	0.6552	0.2056	2.0881	0.4746
+OncoSG	+ age + sex	Exon19del	0.5633	0.3058	1.0376	0.0655
+OncoSG	+ age + sex	L858R	0.3623	0.1789	0.7335	0.0048
+OncoSG	+ age + sex	Rare	0.7466	0.2316	2.4072	0.6247
+OncoSG	+ age + sex + stage	Exon19del	0.5436	0.2938	1.0056	0.0521
+OncoSG	+ age + sex + stage	L858R	0.3923	0.1921	0.8009	0.0102
+OncoSG	+ age + sex + stage	Rare	0.7356	0.2269	2.3844	0.6088
+OncoSG	+ age + sex + stage + TKI	Exon19del	0.4419	0.2017	0.968	0.0412
+OncoSG	+ age + sex + stage + TKI	L858R	0.4704	0.2196	1.0075	0.0523
+OncoSG	+ age + sex + stage + TKI	Rare	0.6363	0.1509	2.6822	0.538

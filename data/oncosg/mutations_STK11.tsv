@@ -1,0 +1,12 @@
+sampleId	patientId	proteinChange	mutationType	startPosition	referenceAllele	variantAllele
+A110	A110	P281Rfs*6	Frame_Shift_Del	1221314	C	-
+A143	A143	E199*	Nonsense_Mutation	1220502	G	T
+A158	A158	N247del	In_Frame_Del	1221214	ACA	-
+A193	A193	P221Rfs*66	Frame_Shift_Del	1220643	C	-
+A198	A198	Q37*	Nonsense_Mutation	1207021	C	T
+A201	A201	Q159*	Nonsense_Mutation	1220382	C	T
+A231	A231	G215D	Missense_Mutation	1220626	G	A
+A532	A532	P281Rfs*6	Frame_Shift_Del	1221314	C	-
+BGI-EX06	BGI-EX06	K48*	Nonsense_Mutation	1207054	A	T
+BGI-RS31	BGI-RS31	L282Afs*3	Frame_Shift_Ins	1221313	-	C
+BGI-RS40	BGI-RS40	E293*	Nonsense_Mutation	1221962	G	T

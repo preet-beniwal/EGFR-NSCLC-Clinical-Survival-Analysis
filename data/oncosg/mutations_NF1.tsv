@@ -1,0 +1,13 @@
+sampleId	patientId	proteinChange	mutationType	startPosition	referenceAllele	variantAllele
+A017	A017	X96_splice	Splice_Region	29486119	A	G
+A109	A109	S2586*	Nonsense_Mutation	29683996	C	A
+A199	A199	R1412*	Nonsense_Mutation	29585422	A	T
+A217	A217	M1988V	Missense_Mutation	29662005	A	G
+A230	A230	X1325_splice	Splice_Site	29576000	A	T
+A375	A375	S2751R	Missense_Mutation	29687597	T	G
+A532	A532	R304L	Missense_Mutation	29527462	G	T
+A532	A532	E485V	Missense_Mutation	29541530	A	T
+BGI-EX09	BGI-EX09	W267*	Nonsense_Mutation	29509595	G	A
+BGI-EX09	BGI-EX09	L762Efs*11	Frame_Shift_Ins	29554249	-	CAGAAAAGAGTGATGG
+BGI-RS08	BGI-RS08	X1166_splice	Splice_Region	29559904	G	C
+BGI-RS14	BGI-RS14	G1406*	Nonsense_Mutation	29585404	G	T

@@ -1,0 +1,14 @@
+sampleId	patientId	proteinChange	mutationType	startPosition	referenceAllele	variantAllele
+A143	A143	G417V	Missense_Mutation	10602328	C	A
+A158	A158	C171F	Missense_Mutation	10610198	C	A
+A183	A183	E218V	Missense_Mutation	10602925	T	A
+A193	A193	Q74Hfs*77	Frame_Shift_Del	10610476	GTCACACAGCTGCTGGCTG	-
+A196	A196	G558W	Missense_Mutation	10599904	C	A
+A230	A230	R320L	Missense_Mutation	10602619	C	A
+A508	A508	G364V	Missense_Mutation	10602487	C	A
+BGI-EX05	BGI-EX05	T277M	Missense_Mutation	10602748	G	A
+BGI-EX06	BGI-EX06	N238S	Missense_Mutation	10602865	T	C
+BGI-RS07	BGI-RS07	E121*	Nonsense_Mutation	10610349	C	A
+BGI-RS26	BGI-RS26	Q530*	Nonsense_Mutation	10599988	G	A
+BGI-RS31	BGI-RS31	R116W	Missense_Mutation	10610364	G	A
+BGI-RS50	BGI-RS50	S243F	Missense_Mutation	10602850	G	A
