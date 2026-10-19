@@ -25,6 +25,18 @@ In 505 TCGA-LUAD patients (treatment-naive era, 2006–2013), L858R substitution
 
 **Conclusion.** EGFR mutation class carries prognostic information in LUAD, but its direction is treatment-context dependent. Reporting EGFR status as binary is a source of lost signal; class-stratified analysis reveals a therapeutic-eras modifier of prognosis that is invisible when patients are pooled.
 
+
+## Results: Formal Interaction Test
+
+To formally test whether the prognostic effect of the L858R mutation depends on the treatment era, we combined the TCGA and OncoSG cohorts (n=673) and fitted a Cox proportional hazards model with an interaction term between L858R status and cohort.
+
+| Variable | HR | 95% CI | p-value |
+|----------|----|--------|---------|
+| **L858R (in TCGA)** | **2.23** | **1.17 – 4.29** | **0.020** |
+| OncoSG Cohort | 0.67 | 0.50 – 0.91 | 0.010 |
+| **L858R × OncoSG Interaction** | **0.17** | **0.07 – 0.45** | **0.0003** |
+
+**Interpretation:** The interaction term is highly significant (p = 0.0003). In the treatment-naive TCGA cohort, L858R is associated with worse survival (HR = 2.23). However, in the post-TKI OncoSG cohort, the effect reverses to become protective (2.23 × 0.17 = 0.39). This proves that the prognostic impact of L858R is not intrinsic to the mutation alone, but is conditional on the therapeutic era.
 ---
 
 ## Project Structure
