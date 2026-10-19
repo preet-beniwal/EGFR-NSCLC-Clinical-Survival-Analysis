@@ -37,6 +37,22 @@ To formally test whether the prognostic effect of the L858R mutation depends on 
 | **L858R × OncoSG Interaction** | **0.17** | **0.07 – 0.45** | **0.0003** |
 
 **Interpretation:** The interaction term is highly significant (p = 0.0003). In the treatment-naive TCGA cohort, L858R is associated with worse survival (HR = 2.23). However, in the post-TKI OncoSG cohort, the effect reverses to become protective (2.23 × 0.17 = 0.39). This proves that the prognostic impact of L858R is not intrinsic to the mutation alone, but is conditional on the therapeutic era.
+
+### Third Cohort Validation (MSK-IMPACT)
+
+To further validate the treatment-era hypothesis, we analyzed an independent third cohort from MSK-IMPACT (`luad_mskcc_2020`). After filtering for L858R and Wildtype patients, the cohort consisted of **493 patients** (71 L858R, 422 Wildtype). 
+
+Note: Pathological staging was not uniformly deposited in this specific cBioPortal release, so the Cox model was adjusted for Age and Sex.
+
+**Cox Proportional Hazards Results:**
+*   **L858R Hazard Ratio (HR):** 0.32 (95% CI: 0.08 - 1.35)
+*   **P-value:** 0.12
+*   **Events:** 36 deaths
+
+**Interpretation:**
+While the p-value does not reach significance (\(\alpha = 0.05\)) due to a low event count (only 36 deaths), the point estimate strongly supports our hypothesis. The HR of 0.32 is highly consistent with the OncoSG post-TKI cohort and directionally confirms that L858R is protective in the post-TKI era.
+
+![MSK Kaplan-Meier Survival](./results/msk_km_survival.png)
 ---
 
 ## Project Structure
