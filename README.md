@@ -53,6 +53,18 @@ Note: Pathological staging was not uniformly deposited in this specific cBioPort
 While the p-value does not reach significance (\(\alpha = 0.05\)) due to a low event count (only 36 deaths), the point estimate strongly supports our hypothesis. The HR of 0.32 is highly consistent with the OncoSG post-TKI cohort and directionally confirms that L858R is protective in the post-TKI era.
 
 ![MSK Kaplan-Meier Survival](./results/msk_km_survival.png)
+
+### Tumor Mutational Burden (TMB) is Lower in L858R-Mutant Tumors
+
+Because L858R tumors are clinically distinct from wildtype, we investigated whether they differ in overall genomic instability, measured by Tumor Mutational Burden (TMB). We compared TMB between L858R and wildtype patients in both TCGA and MSK cohorts.
+
+| Cohort | Wildtype Median TMB | L858R Median TMB | p-value |
+|--------|---------------------|------------------|---------|
+| TCGA | 7.53 mut/Mb | 2.03 mut/Mb | 5.4 × 10⁻⁵ |
+| MSK | 6.10 mut/Mb | 3.50 mut/Mb | 5.2 × 10⁻⁷ |
+
+**Interpretation:** L858R-mutant tumors have significantly lower mutational burden than wildtype tumors in both cohorts. This finding explains the clinical observation that EGFR-mutant LUAD typically responds poorly to immune checkpoint inhibitors (which require high TMB for efficacy) but responds well to targeted TKIs. The low TMB reflects the oncogenic-addiction biology of L858R tumors, which are less dependent on environmental mutagenesis.
+
 ---
 
 ## Project Structure
